@@ -42,7 +42,6 @@ export const projects = [
     gradient: 'from-teal-600 via-cyan-700 to-blue-800',
     image: '/generated/portfolio/urban-aid.png',
     statusTone: 'green',
-    url: 'https://github.com/JBWolfFlow/UrbanAidV2',
   },
 ];
 

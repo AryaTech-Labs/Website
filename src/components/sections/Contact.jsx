@@ -322,12 +322,12 @@ const Contact = () => {
                 </div>
                 <div className="flex-1 min-w-0">
                   <a
-                    href="https://github.com/JBWolfFlow"
+                    href="https://github.com/AryaTech-Labs"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="text-sm font-semibold text-primary-600 hover:text-primary-700 transition-colors break-all"
                   >
-                    github.com/JBWolfFlow
+                    github.com/AryaTech-Labs
                   </a>
                   <p className="mt-1 text-xs text-neutral-500 flex items-center gap-1.5">
                     <MapPin className="w-3 h-3 flex-shrink-0" aria-hidden="true" />

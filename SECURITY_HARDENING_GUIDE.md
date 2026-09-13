@@ -1312,7 +1312,7 @@ VITE_CONTACT_PHONE=+1-206-876-0437
 
 
 # GitHub Organization URL
-VITE_GITHUB_URL=https://github.com/JBWolfFlow
+VITE_GITHUB_URL=https://github.com/AryaTech-Labs
 
 # ==============================================
 # Analytics (Optional)

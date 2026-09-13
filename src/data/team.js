@@ -13,7 +13,7 @@ export const teamMembers = [
     specialties: ['AI Orchestration & Agents', 'Rust Engineering', 'Full-Stack TypeScript', 'Security Architecture', 'Systems Design'],
     education: 'Meta Full-Stack Developer Professional Certificate | University of Michigan Python 3 Programming Specialization',
     email: 'jacobgonsalves@arya-tech.net',
-    github: 'https://github.com/JBWolfFlow'
+    github: 'https://github.com/jacob-gonsalves'
   },
   {
     id: 2,

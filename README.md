@@ -111,7 +111,7 @@ AryaTech's website is a modern, high-performance single-page application showcas
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/JBWolfFlow/website.git
+git clone https://github.com/AryaTech-Labs/Website.git
 cd website
 ```
 
@@ -322,7 +322,7 @@ Comprehensive documentation is available for all aspects of the project:
 
 #### Vercel (Recommended)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/JBWolfFlow/website)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/AryaTech-Labs/Website)
 
 1. Click the button above
 2. Connect your GitHub account
@@ -331,7 +331,7 @@ Comprehensive documentation is available for all aspects of the project:
 
 #### Netlify
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/JBWolfFlow/website)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/AryaTech-Labs/Website)
 
 1. Click the button above
 2. Connect your GitHub account
@@ -467,7 +467,7 @@ For licensing inquiries, contact: contact@arya-tech.net
 ### Getting Help
 
 - **Documentation**: Check the guides in this repository
-- **Issues**: [GitHub Issues](https://github.com/JBWolfFlow/website/issues)
+- **Issues**: [GitHub Issues](https://github.com/AryaTech-Labs/Website/issues)
 - **Email**: dev@arya-tech.net
 - **Website**: [arya-tech.net](https://arya-tech.net)
 
@@ -566,7 +566,7 @@ Design inspiration from:
 - **Website**: [arya-tech.net](https://arya-tech.net)
 - **Email**: contact@arya-tech.net
 - **Phone**: (206) 876-0437
-- **GitHub**: [@JBWolfFlow](https://github.com/JBWolfFlow)
+- **GitHub**: [@AryaTech-Labs](https://github.com/AryaTech-Labs)
 
 ---
 

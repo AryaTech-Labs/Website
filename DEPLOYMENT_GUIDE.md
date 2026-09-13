@@ -65,10 +65,10 @@ Depending on your chosen deployment platform:
 
 ```bash
 # Clone via HTTPS
-git clone https://github.com/JBWolfFlow/website.git
+git clone https://github.com/AryaTech-Labs/Website.git
 
 # Or clone via SSH
-git clone git@github.com:JBWolfFlow/website.git
+git clone git@github.com:AryaTech-Labs/Website.git
 
 # Navigate to project directory
 cd website
@@ -146,7 +146,7 @@ VITE_CONTACT_EMAIL=contact@arya-tech.net
 VITE_CONTACT_PHONE=+1-206-876-0437
 
 # Social Media
-VITE_GITHUB_URL=https://github.com/JBWolfFlow
+VITE_GITHUB_URL=https://github.com/AryaTech-Labs
 
 # Analytics (Optional)
 VITE_GA_MEASUREMENT_ID=G-XXXXXXXXXX
@@ -848,7 +848,7 @@ VITE_CONTACT_EMAIL=contact@arya-tech.net
 VITE_CONTACT_PHONE=+1-206-876-0437
 
 # Social media
-VITE_GITHUB_URL=https://github.com/JBWolfFlow
+VITE_GITHUB_URL=https://github.com/AryaTech-Labs
 
 # Security settings
 VITE_ENVIRONMENT=production
