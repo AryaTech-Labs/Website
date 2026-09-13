@@ -130,7 +130,7 @@ export const siteConfig = {
   email: 'contact@arya-tech.net',
   phone: '+1-XXX-XXX-XXXX',
   social: {
-    github: 'https://github.com/JBWolfFlow'
+    github: 'https://github.com/AryaTech-Labs'
   }
 };
 ```

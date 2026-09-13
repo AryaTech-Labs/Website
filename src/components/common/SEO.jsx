@@ -35,7 +35,7 @@ const SEO = ({
       availableLanguage: ['English'],
     },
     sameAs: [
-      'https://github.com/JBWolfFlow',
+      'https://github.com/AryaTech-Labs',
     ],
     address: {
       '@type': 'PostalAddress',

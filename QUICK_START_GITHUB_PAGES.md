@@ -19,7 +19,7 @@ I've created and configured:
 
 ### Step 1: Add Web3Forms Secret (2 minutes)
 
-1. Go to: https://github.com/JBWolfFlow/Website/settings/secrets/actions
+1. Go to: https://github.com/AryaTech-Labs/Website/settings/secrets/actions
 2. Click **"New repository secret"**
 3. Name: `VITE_WEB3FORMS_ACCESS_KEY`
 4. Value: `3132cd65-fd46-4930-beef-ee0a0fd4fd3f`
@@ -27,7 +27,7 @@ I've created and configured:
 
 ### Step 2: Enable GitHub Pages (1 minute)
 
-1. Go to: https://github.com/JBWolfFlow/Website/settings/pages
+1. Go to: https://github.com/AryaTech-Labs/Website/settings/pages
 2. Under "Build and deployment"
 3. Source: Select **"GitHub Actions"**
 4. Click **"Save"**
@@ -41,7 +41,7 @@ git commit -m "Add GitHub Pages deployment"
 git push -u origin main
 ```
 
-**✅ Your site will be live at**: `https://jbwolfflow.github.io/Website/` in 2-5 minutes
+**✅ Your site will be live at**: `https://aryatech-labs.github.io/Website/` in 2-5 minutes
 
 ### Step 4: Configure DNS (5 minutes)
 
@@ -57,7 +57,7 @@ git push -u origin main
    ```
 4. **Add CNAME record**:
    ```
-   www → jbwolfflow.github.io
+   www → aryatech-labs.github.io
    ```
 5. Click **"Save"**
 
@@ -65,7 +65,7 @@ git push -u origin main
 
 **Wait 1-2 hours for DNS**, then:
 
-1. Go to: https://github.com/JBWolfFlow/Website/settings/pages
+1. Go to: https://github.com/AryaTech-Labs/Website/settings/pages
 2. Under "Custom domain"
 3. Enter: `arya-tech.net`
 4. Click **"Save"**
@@ -80,7 +80,7 @@ git push -u origin main
 
 ### Immediate (GitHub Pages URL)
 ```
-https://jbwolfflow.github.io/Website/
+https://aryatech-labs.github.io/Website/
 ```
 
 ### After DNS (Custom Domain)
@@ -135,4 +135,4 @@ See the complete guide: [`GITHUB_PAGES_DEPLOYMENT.md`](GITHUB_PAGES_DEPLOYMENT.m
 
 **Cost**: $0/month (domain is annual ~$20/year)
 
-**Your Repository**: https://github.com/JBWolfFlow/Website
+**Your Repository**: https://github.com/AryaTech-Labs/Website

@@ -18,7 +18,7 @@ export const siteConfig = {
 
   // Social media links
   social: {
-    github: 'https://github.com/JBWolfFlow',
+    github: 'https://github.com/AryaTech-Labs',
   },
   
   // Navigation sections

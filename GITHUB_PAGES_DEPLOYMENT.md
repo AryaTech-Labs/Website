@@ -34,7 +34,7 @@ The following files have been created and configured:
 
 **How**:
 
-1. Go to your repository: https://github.com/JBWolfFlow/Website
+1. Go to your repository: https://github.com/AryaTech-Labs/Website
 2. Click **"Settings"** tab
 3. Click **"Secrets and variables"** → **"Actions"** (left sidebar)
 4. Click **"New repository secret"**
@@ -49,7 +49,7 @@ The following files have been created and configured:
 
 ### STEP 2: Enable GitHub Pages
 
-1. Go to your repository: https://github.com/JBWolfFlow/Website
+1. Go to your repository: https://github.com/AryaTech-Labs/Website
 2. Click **"Settings"** tab
 3. Click **"Pages"** (left sidebar)
 4. Under **"Build and deployment"**:
@@ -81,7 +81,7 @@ git add .
 git commit -m "Add GitHub Pages deployment configuration"
 
 # Add remote (if not already added)
-git remote add origin https://github.com/JBWolfFlow/Website.git
+git remote add origin https://github.com/AryaTech-Labs/Website.git
 
 # Push to GitHub
 git push -u origin main
@@ -143,7 +143,7 @@ TTL: 3600
 ```
 Type: CNAME
 Host: www
-Points to: jbwolfflow.github.io
+Points to: aryatech-labs.github.io
 TTL: 3600
 ```
 
@@ -160,7 +160,7 @@ TTL: 3600
 
 **After DNS propagates** (wait 1-2 hours minimum):
 
-1. Go to your repository: https://github.com/JBWolfFlow/Website
+1. Go to your repository: https://github.com/AryaTech-Labs/Website
 2. Click **"Settings"** tab
 3. Click **"Pages"** (left sidebar)
 4. Under **"Custom domain"**:
@@ -179,7 +179,7 @@ TTL: 3600
 
 Your site is immediately available at:
 ```
-https://jbwolfflow.github.io/Website/
+https://aryatech-labs.github.io/Website/
 ```
 
 **Test**:
@@ -303,7 +303,7 @@ https://arya-tech.net
 
 ### Problem: Custom Domain Not Working
 
-**Symptoms**: Site works at jbwolfflow.github.io but not at arya-tech.net
+**Symptoms**: Site works at aryatech-labs.github.io but not at arya-tech.net
 
 **Solutions**:
 1. Check DNS propagation: https://dnschecker.org/
@@ -524,6 +524,6 @@ Your deployment is successful when:
 ---
 
 **Last Updated**: 2025-01-14
-**Repository**: https://github.com/JBWolfFlow/Website
+**Repository**: https://github.com/AryaTech-Labs/Website
 **Live Site**: https://arya-tech.net (after DNS propagation)
 **Maintained By**: AryaTech

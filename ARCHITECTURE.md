@@ -559,7 +559,7 @@ export const siteConfig = {
   url: 'https://arya-tech.net',
   email: 'contact@arya-tech.net',
   social: {
-    github: 'https://github.com/JBWolfFlow'
+    github: 'https://github.com/AryaTech-Labs'
   }
 };
 ```
@@ -1320,7 +1320,7 @@ export const organizationSchema = {
     "email": "contact@arya-tech.net"
   },
   "sameAs": [
-    "https://github.com/JBWolfFlow"
+    "https://github.com/AryaTech-Labs"
   ]
 };
 ```

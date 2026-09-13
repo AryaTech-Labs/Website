@@ -986,7 +986,7 @@ git push origin feature/new-feature
 **Weekly:**
 ```bash
 # Create local backup
-git clone https://github.com/JBWolfFlow/website.git backup-$(date +%Y%m%d)
+git clone https://github.com/AryaTech-Labs/Website.git backup-$(date +%Y%m%d)
 
 # Or create archive
 git archive --format=zip --output=backup-$(date +%Y%m%d).zip HEAD
